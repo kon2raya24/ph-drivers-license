@@ -19,3 +19,11 @@ npm install ph-drivers-license
 ## License
 
 MIT
+
+
+## Usage
+
+```typescript
+import { } from 'ph-drivers-license';
+// See API section for available functions
+```
